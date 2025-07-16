@@ -1,4 +1,4 @@
-Hi! 👋, I'm Suleiman
+-- Hi! 👋, I'm Suleiman --
 Welcome to my GitHub profile! I'm a software developer with expertise in both frontend and backend web development technologies.
 
 About Me
